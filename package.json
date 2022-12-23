@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://fuchscodes27.github.io/",
+  "homepage": "https://fuchscodes27.github.io/fuchscodes",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
